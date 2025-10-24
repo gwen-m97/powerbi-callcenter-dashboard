@@ -47,7 +47,7 @@ Le rapport Power BI est structuré en **3 pages** principales :
 ### 🔎​ Visualisation
 
 - Visualisations **interactives** et filtrables
-- Indicateurs de performance clairs et **colorimétrie** cohérente
+- Indicateurs de performance clairs et **couleurs** cohérentes
 - Mise en page ergonomique et **design moderne**
 
 
