@@ -13,12 +13,14 @@
 
 # 📞 Power BI Dashboard – Call Center Performance
 **Call Center Dashboard** est un tableau de bord interactif réalisé sur **Power BI**, permettant d’analyser les performances d’un centre d’appel fictif.
-Il offre une vision à la fois **quotidienne, mensuelle et individuelle** de l’activité, afin de suivre les indicateurs clés, identifier les tendances et évaluer les performances des équipes.
+Il permet une vision à la fois **quotidienne, mensuelle et individuelle** de l’activité, afin de suivre les indicateurs clés, identifier les tendances et évaluer les performances des équipes.
+
+![Page view](assets/Page2-1.png)
 
 
 ---
 
-## Les objectifs
+## 👉 Les objectifs
 
 - Fournir une **vue claire et synthétique** de la performance du centre d’appel
 - Identifier rapidement les **périodes de forte ou faible activité**
@@ -72,19 +74,18 @@ Le rapport Power BI est structuré en **3 pages** principales :
 | Préparation des données | **Power Query** |
 | Calculs et mesures | **DAX** |
 | Source de données | **Excel (.xlsx)** |
-| Designs | Templates Power BI personnalisés |
 
 
 ---
 
 ## 📽️ Aperçu du dashboard
-Page 1 – Suivi quotidien
+**Page 1 – Suivi quotidien**
 ![Dashboard pages](assets/Page1-Demo.gif)
 
-Page 2 – Tendances mensuelles
+**Page 2 – Tendances mensuelles**
 ![Dashboard pages](assets/Page2-Demo.gif)
 
-Page 3 – Équipes et performance
+**Page 3 – Équipes et performance**
 ![Dashboard pages](assets/Page3-Demo.gif)
 
 
