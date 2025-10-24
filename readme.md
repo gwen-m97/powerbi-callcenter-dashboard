@@ -8,6 +8,7 @@
 > Interactive Power BI dashboard for a call center.
 > The dashboard is in **French** and includes daily KPIs, monthly trends, and team performance.
 
+<br>
 
 ---
 
